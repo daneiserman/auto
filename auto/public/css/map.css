@@ -1,0 +1,17 @@
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+td {
+    padding-right: 10px;
+    border: solid;
+}
+
+#requests {
+    padding-top: 10px;
+}
+
+.no-border {
+    border: 0;
+}
